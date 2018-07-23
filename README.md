@@ -46,7 +46,7 @@ players:1
 controls:
     p1:left-a,right-d,shot-w,start-s
 
-game:tetris((not work good)5wawwaw6656r666e6rr
+game:tetris((not work good)
 players:1
 controls:
     p1:left-a,right-d,flip-w,fast-s
