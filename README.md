@@ -5,6 +5,9 @@ esp32 craetes ap 'chip8',password:'sgsgsgsg'
 connect to ap and start python remote client.
 
 switch between roms 1,2,3,4,5,6 keys.
+
+space invaders and tetris not working good.
+
 reload with 'r' key
 
 game:brix
