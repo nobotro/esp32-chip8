@@ -10,6 +10,9 @@ space invaders and tetris not working good.
 
 reload with 'r' key
 
+
+video https://youtu.be/Y4ifT71oknY
+
 game:brix
 players:1
 controls:
