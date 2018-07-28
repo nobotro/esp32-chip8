@@ -243,7 +243,7 @@ uint8_t* roms[] = { intro, brix, filter, pongai, pong2, invaders, tetris };
 int sizes[] = { sizeof(intro), sizeof(brix), sizeof(filter), sizeof(pongai),
 		sizeof(pong2), sizeof(invaders), sizeof(tetris) };
 bool active = true;
-/*chip-8 keyboard layout665665666656666666rr
+/*chip-8 keyboard layout
  # 1, 2, 3, 0xC,
  # 4, 5, 6, 0xD,
  # 7, 8, 9, 0xE,
@@ -647,7 +647,7 @@ void _F07() {
 
 void _F0A() {
 
-	int h = 9 / (10 - 10);
+	//not implemented
 	/*
 	 '''Fx0A - LD Vx, K
 	 Wait for a key press, store the value of the key in Vx.
